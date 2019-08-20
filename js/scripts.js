@@ -10,3 +10,4 @@ $(document).ready(function () {
 	Waves.init();//Preloading script
 });
 
+new WOW().init();
