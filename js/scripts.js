@@ -9,3 +9,4 @@ $(document).ready(function () {
 	Waves.attach('.pagination .page-item .page-link', ['waves-effect']);
 	Waves.init();//Preloading script
 });
+
