@@ -5,6 +5,12 @@ html, body {
   scroll-behavior: smooth;
 }
 
+.jumbotron {
+  background: radial-gradient(circle, white, white, rgb(255, 235, 232));
+  background-size: 100%;
+  background-position: 50% 50%;
+}
+
 .top-nav-collapse {
   background-color: #f44336 !important;
 }
